@@ -24,16 +24,6 @@
                         <key>url</key>
                         <string>http://180.97.30.14/slxczhpt/userfiles/apps/icon.png</string>
                     </dict>
-
-                    <!-- full-size-image: the large 512×512 icon used by iTunes. -->
-                    <dict>
-                        <key>kind</key>
-                        <string>full-size-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>http://180.97.30.14/slxczhpt/userfiles/apps/itunes-icon.png</string>
-                    </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
